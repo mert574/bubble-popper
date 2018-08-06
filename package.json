@@ -1,0 +1,11 @@
+{
+  "name": "bubble-popper",
+  "version": "1.0.0",
+  "description": "A candy crush-like game in pure JS!",
+  "main": "main.js",
+  "author": "IRL",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve ."
+  }
+}
