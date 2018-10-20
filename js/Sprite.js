@@ -1,6 +1,5 @@
 const imagePreloadList = [
     'img/ccrush.png',
-    'img/test.jpg'
 ];
 
 class Sprite {
